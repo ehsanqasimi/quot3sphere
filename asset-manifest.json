@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/quot3sphere/static/css/main.a2912b06.css",
+    "main.js": "/quot3sphere/static/js/main.ff6ae8fb.js",
+    "static/media/Rumi-Regular.ttf": "/quot3sphere/static/media/Rumi-Regular.93b0c69c66a7ef3af870.ttf",
+    "static/media/logo.png": "/quot3sphere/static/media/logo.c12db051ee0964b88923.png",
+    "static/media/quoteIcon.png": "/quot3sphere/static/media/quoteIcon.5464cbe5b580039362c1.png",
+    "index.html": "/quot3sphere/index.html",
+    "main.a2912b06.css.map": "/quot3sphere/static/css/main.a2912b06.css.map",
+    "main.ff6ae8fb.js.map": "/quot3sphere/static/js/main.ff6ae8fb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2912b06.css",
+    "static/js/main.ff6ae8fb.js"
+  ]
+}
